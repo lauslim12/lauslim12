@@ -41,7 +41,7 @@ In order to fulfill my passion for science and technology, let's collaborate tog
 - HTML5, (S)CSS, JavaScript (ES6+), React.js, and Pug/Jade for front-end development
 - Node.js, PHP, CodeIgniter, Express.js for back-end development
 - MariaDB, MySQL, and MongoDB (NoSQL) for database development
-- Python for general purpose programming language
+- Python for general purpose programming language and science related things
 - IBM Cloud Services for Cloud Computing
 - Git, Heroku, Docker, Travis for DevOps
 
@@ -51,6 +51,7 @@ In order to fulfill my passion for science and technology, let's collaborate tog
 - Bootstrap and jQuery (I use them often for rapid prototyping)
 - Java
 - Prolog
+- R
 - Scratch
 - WordPress
 
