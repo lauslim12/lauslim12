@@ -64,6 +64,7 @@ In order to fulfill my passion for science and technology, let's collaborate tog
 - 🤑 **[Reputation Economy](https://github.com/lauslim12/Reputation-Economics-IBM-Intern-Project)**
 - 🤖 **[Chatbot](https://github.com/lauslim12/Banking-Chatbot-IBM-Watson-Assistant)**
 - 🔑 **[Vernam Cipher Encryption Analysis](https://github.com/lauslim12/vernam-cipher)**
+- 🎞️ **[Anime Vision](https://github.com/lauslim12/anime-vision)**
 
 I also have some closed source projects like Skiffindo's Database, and Ortlinde, a security penetration testing application. If you are interested, don't hesitate to send me a message ✉️!
 
