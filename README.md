@@ -1,8 +1,8 @@
 # 🖥️ Nicholas Dwiarto W.
 
-```
-  const response = await fetch('/api/world/humans/nicholas-dwiarto/github-bio');
-  const lauslim12 = await response.json();
+```javascript
+  import axios from 'axios';
+  const lauslim12 = await axios.get('/api/world/humans/nicholas-dwiarto/github');
 
   Status: 200 OK
 
@@ -12,12 +12,6 @@
       "data": lauslim12
     }
   }
-
-  const supplyDataGitHub = (user) => {
-    // Supplying GitHub Bio with data...
-  }
-
-  supplyDataGitHub(lauslim12);
 ```
 
 Hello everyone! 👋
