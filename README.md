@@ -26,6 +26,8 @@ I specialize in making beautiful web applications, software development, and dat
 
 I am currently a third-year Computer Science university student. Unlike ordinary university students, I always try to work, take on projects (either personal, commercial, or internship), and force myself to level up and develop further in my spare time.
 
+I have coded since I was in junior high school, my first language was everyone's favorite HTML. My first programming language was Ruby, and my first program was to write a calculator with it. It was sure fun and I was hooked up into the software engineering world!
+
 In order to fulfill my passion for science and technology, let's collaborate together when you have a project that we could solve together 😀!
 
 ## 🏢 Experiences
@@ -37,15 +39,19 @@ In order to fulfill my passion for science and technology, let's collaborate tog
 
 ## 🧰 Specializations
 
+I am very comfortable when using these technologies.
+
 - C, and C++ for embedded systems, competitive programming, and lightweight projects
 - HTML5, (S)CSS, JavaScript (ES6+), React.js, and Pug/Jade for front-end development
-- Node.js, PHP, CodeIgniter, Express.js for back-end development
+- Node.js, PHP, Golang, CodeIgniter, Express.js for back-end development
 - MariaDB, MySQL, and MongoDB (NoSQL) for database development
 - Python for general purpose programming language and science related things
 - IBM Cloud Services for Cloud Computing
 - Git, Heroku, Docker, Travis for DevOps
 
 ## 🤷 Rarely Used
+
+I used them once or twice, but I rarely use them now.
 
 - Angular
 - Bootstrap and jQuery (I use them often for rapid prototyping)
@@ -56,6 +62,8 @@ In order to fulfill my passion for science and technology, let's collaborate tog
 - WordPress
 
 ## 💼 Projects
+The projects that I put here are the ones I think worth seeing and checking out! My other projects could be seen in my `repositories` tab!
+
 Personal:
   - 🏨 **[Intractive Hotel System](https://nicholasdw.com/Intractive)**
   - 💰 **[Cashy Application](https://cashy.herokuapp.com/)**
@@ -64,6 +72,7 @@ Personal:
   - 🔑 **[Vernam Cipher Encryption Analysis](https://github.com/lauslim12/vernam-cipher)**
   - 🎞️ **[Anime Vision](https://github.com/lauslim12/anime-vision)**
   - 📒 **[Git Cheatsheet](https://nicholasdw.com/software-engineering)**
+  - 🧑 **[Gender Classification](https://github.com/lauslim12/gender-classification)**
   - 🕵 Ortlinde Penetration Testing Application
 
 IBM Indonesia:
@@ -74,7 +83,7 @@ Skiffindo Integra Selaras:
   - 📃 Database Developer
   - 📏 Currently making a full stack website!
 
-If there is no links in the project, it means that the project is closed source. If you are interested, don't hesitate to send me a message ✉️!
+If there is no link in the project, it means that the project is closed source. If you are interested, don't hesitate to send me a message ✉️!
 
 Note: I probably have many more projects, but I think I forgot about them 😂!
 
