@@ -26,10 +26,10 @@ In order to fulfill my passion for science and technology, let's collaborate tog
 
 ## 🏢 Experiences
 
-- Fullstack Web Developer in Skiffindo Integra Selaras
-- Data Modeler in IBM Indonesia
-- Database Developer in Skifindo Integra Selaras
-- Web Designer in Yayasan Difabel Mandiri Indonesia
+- Full Stack Rngineer Intern in Skifindo Integra Selaras
+- Data Modeler Intern in IBM Indonesia
+- Database Developer Intern in Skifindo Integra Selaras
+- Web Designer Volunteer in Yayasan Difabel Mandiri Indonesia
 
 ## 🧰 Specializations
 
@@ -52,6 +52,7 @@ I used them once or twice, but I rarely use them now.
 - Java
 - Prolog
 - R
+- Ruby
 - Scratch
 - WordPress
 
@@ -76,6 +77,9 @@ IBM Indonesia:
 Skiffindo Integra Selaras:
   - 📃 Database Developer
   - 📏 Currently making a full stack website!
+
+Open Source:
+  - 😃 **[Anime Face Detector](https://github.com/qhgz2013/anime-face-detector)**
 
 If there is no link in the project, it means that the project is closed source. If you are interested, don't hesitate to send me a message ✉️!
 
