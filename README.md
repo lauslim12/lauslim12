@@ -1,17 +1,19 @@
 # 🖥️ Nicholas Dwiarto W.
 
 ```javascript
-  import axios from 'axios';
-  const lauslim12 = await axios.get('/api/world/humans/nicholas-dwiarto/github');
+  (async () => {
+    import axios from 'axios';
+    const lauslim12 = await axios.get('/api/world/humans/nicholas-dwiarto/github');
 
-  Status: 200 OK
+    Status: 200 OK
 
-  {
-    "status": "success",
-    "data": {
-      "data": lauslim12
+    {
+      "status": "success",
+      "data": {
+        "data": lauslim12
+      }
     }
-  }
+  })();
 ```
 
 Hello everyone! 👋
@@ -26,7 +28,7 @@ In order to fulfill my passion for science and technology, let's collaborate tog
 
 ## 🏢 Experiences
 
-- Full Stack Rngineer Intern in Skifindo Integra Selaras
+- Full Stack Engineer Intern in Skifindo Integra Selaras
 - Data Modeler Intern in IBM Indonesia
 - Database Developer Intern in Skifindo Integra Selaras
 - Web Designer Volunteer in Yayasan Difabel Mandiri Indonesia
@@ -80,6 +82,10 @@ Skiffindo Integra Selaras:
 
 Open Source:
   - 😃 **[Anime Face Detector](https://github.com/qhgz2013/anime-face-detector)**
+
+Other:
+  - **[Yayasan Difabel Mandiri Indonesia](https://ydmi.or.id)**
+  - **[Non-Deterministic Finite Automata for Cereal Vending Machines](http://proceeding.unindra.ac.id/index.php/simponi/article/view/375/0)**
 
 If there is no link in the project, it means that the project is closed source. If you are interested, don't hesitate to send me a message ✉️!
 
