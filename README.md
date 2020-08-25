@@ -24,10 +24,11 @@ I am currently a third-year Computer Science university student. Unlike ordinary
 
 I have coded since I was in junior high school, my first language was everyone's favorite HTML. My first programming language was Ruby, and my first program was to write a calculator with it. It was sure fun and I was hooked up into the software engineering world!
 
-In order to fulfill my passion for science and technology, let's collaborate together when you have a project that we could solve together 😀!
+In order to fulfill our passion for science and technology, let's collaborate together when you have a project that we could solve together 😀!
 
 ## 🏢 Experiences
 
+- Full Stack Engineer in Nilam Sukses Mandiri
 - Full Stack Engineer Intern in Skifindo Integra Selaras
 - Data Modeler Intern in IBM Indonesia
 - Database Developer Intern in Skifindo Integra Selaras
@@ -35,19 +36,19 @@ In order to fulfill my passion for science and technology, let's collaborate tog
 
 ## 🧰 Specializations
 
-I am very comfortable when using these technologies.
+I am very comfortable when using these technologies listed below,
 
 - C, and C++ for embedded systems, competitive programming, and lightweight projects
 - HTML5, (S)CSS, JavaScript (ES6+), React.js, and Pug/Jade for front-end development
-- Node.js, PHP, Golang, CodeIgniter, Express.js for back-end development
+- Node.js (Express.js), PHP (CodeIgniter, Laravel), Golang for back-end development
 - MariaDB, MySQL, and MongoDB (NoSQL) for database development
-- Python for general purpose programming language and science related things
+- Python / Jupyter for general purpose programming language and science related things
 - IBM Cloud Services for Cloud Computing
 - Git, Heroku, Docker, Travis for DevOps
 
 ## 🤷 Rarely Used
 
-I used them once or twice, but I rarely use them now.
+I used them once or twice, but I rarely use them now. Following are the technologies,
 
 - Angular
 - Bootstrap and jQuery (I use them often for rapid prototyping)
@@ -78,7 +79,10 @@ IBM Indonesia:
 
 Skiffindo Integra Selaras:
   - 📃 Database Developer
-  - 📏 Currently making a full stack website!
+  - 📏 **[Skifindo Integra Selaras Website](https://skifindo.com/)**
+
+Nilam Sukses Mandiri:
+  - Currently making a full-stack website!
 
 Open Source:
   - 😃 **[Anime Face Detector](https://github.com/qhgz2013/anime-face-detector)**
