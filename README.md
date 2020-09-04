@@ -22,7 +22,7 @@ I specialize in making beautiful web applications, software development, and dat
 
 I am currently a third-year Computer Science university student. Unlike ordinary university students, I always try to work, take on projects (either personal, commercial, or internship), and force myself to level up and develop further in my spare time.
 
-I have coded since I was in junior high school, my first language was everyone's favorite HTML. My first programming language was Ruby, and my first program was to write a calculator with it. It was sure fun and I was hooked up into the software engineering world!
+I have coded since I was in junior high school, my first language was everyone's favorite HTML. My first programming language was Ruby, and my first program was to write a calculator with it. Then, I grew big-headed and tried to create a San Andreas Multiplayer Server with PAWNO Scripting Language. It failed 😂! However, it was sure fun and I was hooked up into the software engineering world!
 
 In order to fulfill our passion for science and technology, let's collaborate together when you have a project that we could solve together 😀!
 
@@ -33,6 +33,8 @@ In order to fulfill our passion for science and technology, let's collaborate to
 - Data Modeler Intern in IBM Indonesia
 - Database Developer Intern in Skifindo Integra Selaras
 - Web Designer Volunteer in Yayasan Difabel Mandiri Indonesia
+
+For further details, [please check my LinkedIn!](https://www.linkedin.com/in/nicholasdwiarto/)
 
 ## 🧰 Specializations
 
@@ -45,19 +47,6 @@ I am very comfortable when using these technologies listed below,
 - Python / Jupyter for general purpose programming language and science related things
 - IBM Cloud Services for Cloud Computing
 - Git, Heroku, Docker, Travis for DevOps
-
-## 🤷 Rarely Used
-
-I used them once or twice, but I rarely use them now. Following are the technologies,
-
-- Angular
-- Bootstrap and jQuery (I use them often for rapid prototyping)
-- Java
-- Prolog
-- R
-- Ruby
-- Scratch
-- WordPress
 
 ## 💼 Projects
 The projects that I put here are the ones I think worth seeing and checking out! My other projects could be seen in my `repositories` tab!
