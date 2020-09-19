@@ -66,7 +66,7 @@ IBM Indonesia:
   - 🤑 **[Reputation Economy](https://github.com/lauslim12/Reputation-Economics-IBM-Intern-Project)**
   - 🤖 **[Chatbot](https://github.com/lauslim12/Banking-Chatbot-IBM-Watson-Assistant)**
 
-Skiffindo Integra Selaras:
+Skifindo Integra Selaras:
   - 📃 Database Developer
   - 📏 **[Skifindo Integra Selaras Website](https://skifindo.com/)**
 
