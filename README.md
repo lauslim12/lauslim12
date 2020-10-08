@@ -49,38 +49,46 @@ I am very comfortable when using these technologies listed below,
 - Git, Heroku, Docker, Travis for DevOps
 
 ## 💼 Projects
+
 The projects that I put here are the ones I think worth seeing and checking out! My other projects could be seen in my `repositories` tab!
 
 Personal:
-  - 🏨 **[Intractive Hotel System](https://nicholasdw.com/Intractive)**
-  - 💰 **[Cashy Application](https://cashy.herokuapp.com/)**
-  - 💬 **[Intract Social Network](https://nicholasdw.com/Intract)**
-  - 🌐 **[Portfolio Website](https://nicholasdw.com/) / [Previous Portfolio](https://nicholasdw.com/Portofolio%20Real/)**
-  - 🔑 **[Vernam Cipher Encryption Analysis](https://github.com/lauslim12/vernam-cipher)**
-  - 🎞️ **[Anime Vision](https://github.com/lauslim12/anime-vision)**
-  - 📒 **[Git Cheatsheet](https://nicholasdw.com/software-engineering)**
-  - 🧑 **[Gender Classification](https://github.com/lauslim12/gender-classification)**
-  - 🕵 Ortlinde Penetration Testing Application
+
+- 🏨 **[Intractive Hotel System](https://nicholasdw.com/Intractive)**
+- 💰 **[Cashy Application](https://cashy.herokuapp.com/)**
+- 📮 **[Satella](https://github.com/lauslim12/Satella)**
+- 💬 **[Intract Social Network](https://github.com/lauslim12/intract-social-network)**
+- 🌐 **[Portfolio Website](https://nicholasdw.com/) / [Previous Portfolio](https://nicholasdw.com/Portofolio%20Real/)**
+- 🔑 **[Vernam Cipher Encryption Analysis](https://github.com/lauslim12/vernam-cipher)**
+- 🎞️ **[Anime Vision](https://github.com/lauslim12/anime-vision)**
+- 📒 **[Git Cheatsheet](https://nicholasdw.com/software-engineering)**
+- 🧑 **[Gender Classification](https://github.com/lauslim12/gender-classification)**
+- 🕵 Ortlinde Penetration Testing Application
 
 IBM Indonesia:
-  - 🤑 **[Reputation Economy](https://github.com/lauslim12/Reputation-Economics-IBM-Intern-Project)**
-  - 🤖 **[Chatbot](https://github.com/lauslim12/Banking-Chatbot-IBM-Watson-Assistant)**
+
+- 🤑 **[Reputation Economy](https://github.com/lauslim12/Reputation-Economics-IBM-Intern-Project)**
+- 🤖 **[Chatbot](https://github.com/lauslim12/Banking-Chatbot-IBM-Watson-Assistant)**
 
 Skifindo Integra Selaras:
-  - 📃 Database Developer
-  - 📏 **[Skifindo Integra Selaras Website](https://skifindo.com/)**
+
+- 📃 Database Developer
+- 📏 **[Skifindo Integra Selaras Website](https://skifindo.com/)**
 
 Nilam Sukses Mandiri:
-  - Currently making a full-stack website!
+
+- Currently making a full-stack website!
 
 Open Source:
-  - 😃 **[Anime Face Detector](https://github.com/qhgz2013/anime-face-detector)**
+
+- 😃 **[Anime Face Detector](https://github.com/qhgz2013/anime-face-detector)**
 
 Other:
-  - **[Yayasan Difabel Mandiri Indonesia](https://ydmi.or.id)**
-  - **[Non-Deterministic Finite Automata for Cereal Vending Machines](http://proceeding.unindra.ac.id/index.php/simponi/article/view/375/0)**
 
-If there is no link in the project, it means that the project is closed source. If you are interested, don't hesitate to send me a message ✉️!
+- **[Yayasan Difabel Mandiri Indonesia](https://ydmi.or.id)**
+- **[Non-Deterministic Finite Automata for Cereal Vending Machines](http://proceeding.unindra.ac.id/index.php/simponi/article/view/375/0)**
+
+If there is no link of the project, it means that the project is closed source. If you are interested, don't hesitate to send me a message ✉️!
 
 Note: I probably have many more projects, but I think I forgot about them 😂!
 
