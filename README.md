@@ -77,11 +77,14 @@ Skifindo Integra Selaras:
 
 Nilam Sukses Mandiri:
 
-- Currently making a full-stack website!
+- 🌐 Full Stack Website
 
 Open Source:
 
+I love contributing in Open Source projects! Here are projects that I have been involved with!
+
 - 😃 **[Anime Face Detector](https://github.com/qhgz2013/anime-face-detector)**
+- 🃏 **[Genshin Impact Wish Simulator](https://github.com/uzair-ashraf/genshin-impact-wish-simulator)**
 
 Other:
 
