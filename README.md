@@ -46,7 +46,7 @@ I am very comfortable when using these technologies listed below,
 - MariaDB, MySQL, and MongoDB (NoSQL) for database development
 - Python / Jupyter for general purpose programming language and science related things
 - IBM Cloud Services for Cloud Computing
-- Git, Heroku, Docker, Travis for DevOps
+- Git, Heroku, Docker, CircleCI, Travis for DevOps
 
 ## 💼 Projects
 
@@ -56,6 +56,7 @@ Personal:
 
 - 🏨 **[Intractive Hotel System](https://nicholasdw.com/Intractive)**
 - 💰 **[Cashy Application](https://cashy.herokuapp.com/)**
+- 📅 **[Anzu](https://github.com/lauslim12/Anzu)**
 - 📮 **[Satella](https://github.com/lauslim12/Satella)**
 - 💬 **[Intract Social Network](https://github.com/lauslim12/intract-social-network)**
 - 🌐 **[Portfolio Website](https://nicholasdw.com/) / [Previous Portfolio](https://nicholasdw.com/Portofolio%20Real/)**
