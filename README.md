@@ -1,101 +1,21 @@
 # 🖥️ Nicholas Dwiarto W
 
-```javascript
-  (async () => {
-    import axios from 'axios';
-    const lauslim12 = await axios.get('/api/world/humans/nicholas-dwiarto/github');
-
-    Status: 200 OK
-
-    {
-      "status": "success",
-      "data": {
-        "data": lauslim12
-      }
-    }
-  })();
-```
-
 Hello everyone! 👋
 
-I specialize in making beautiful web applications, software development, and data related stuff. My passion is there 👍
+I am currently a third-year Computer Science university student. I have a strong foundation in Computer Science, and I specialize (read: passionate) in making beautiful web applications, software development, and data related stuff. I love technology and will always try to work, take on projects, and force myself to level up and develop further in my spare time.
 
-I am currently a third-year Computer Science university student. Unlike ordinary university students, I always try to work, take on projects (either personal, commercial, or internship), and force myself to level up and develop further in my spare time.
+I started coding in junior high school, with my first language was everyone's favorite HTML. After several weeks exploring my first programming language (Ruby), I grew big-headed and tried to create a San Andreas Multiplayer Server with PAWNO Scripting Language. It was fun, but I failed. Since then, I have become interested in software development!
 
-I have coded since I was in junior high school, my first language was everyone's favorite HTML. My first programming language was Ruby, and my first program was to write a calculator with it. Then, I grew big-headed and tried to create a San Andreas Multiplayer Server with PAWNO Scripting Language. It failed 😂! However, it was sure fun and I was hooked up into the software engineering world!
+Presently, in university, I have had the chance to intern in a top IT company, which is IBM Indonesia as a Data Modeler Intern. Aside from IBM, I have also worked and interned in several companies, such as Nilam Sukses Mandiri, and Skifindo Integra Selaras.
 
-In order to fulfill our passion for science and technology, let's collaborate together when you have a project that we could solve together 😀!
+At IBM, me and my partner developed a system that allows one to check and predict the financial performance of a company by its CXO personality, its financial data, and its reputation. Aside from that, we also had the chance to develop a virtual assistant (chatbot) for banking purposes.
 
-## 🏢 Experiences
+I am most skilled and comfortable using JavaScript, Python, and their families. I am familiar with the newest, cutting-edge technologies and trends such as CircleCI, Docker, Next.js, DevOps, NoSQL, CI/CD, and many others.
 
-- Full Stack Engineer in Nilam Sukses Mandiri
-- Full Stack Engineer Intern in Skifindo Integra Selaras
-- Data Modeler Intern in IBM Indonesia
-- Database Developer Intern in Skifindo Integra Selaras
-- Web Designer Volunteer in Yayasan Difabel Mandiri Indonesia
+I love working in the open source, some of my best projects include [Anzu, a chatbot for LINE](https://github.com/lauslim12/Anzu), [an anime character data gatherer with a custom algorithm](https://github.com/lauslim12/Satella), and [an open source hotel system](https://github.com/lauslim12/intract-social-network). I have also contributed in several open source repositories, some of them being [Genshin Impact Wish Simulator](https://github.com/uzair-ashraf/genshin-impact-wish-simulator), and [Anime Face Detector with Faster-RCNN](https://github.com/qhgz2013/anime-face-detector).
 
-For further details, [please check my LinkedIn!](https://www.linkedin.com/in/nicholasdwiarto/)
+I have also written an academic research paper about [the implementation of Non-Deterministic Finite Automata for Vending Machines (Bahasa Indonesia)](http://proceeding.unindra.ac.id/index.php/simponi/article/view/375/0).
 
-## 🧰 Specializations
+Get in touch with me by connecting with my [LinkedIn](https://www.linkedin.com/in/nicholasdwiarto/) or [my personal website (still under maintenance)](https://www.nicholasdw.com).
 
-I am very comfortable when using these technologies listed below,
-
-- C, and C++ for embedded systems, competitive programming, and lightweight projects
-- HTML5, (S)CSS, JavaScript (ES6+), React.js, and Pug/Jade for front-end development
-- Node.js (Express.js), PHP (CodeIgniter, Laravel), Golang for back-end development
-- MariaDB, MySQL, and MongoDB (NoSQL) for database development
-- Python / Jupyter for general purpose programming language and science related things
-- IBM Cloud Services for Cloud Computing
-- Git, Heroku, Docker, CircleCI, Travis for DevOps
-
-## 💼 Projects
-
-The projects that I put here are the ones I think worth seeing and checking out! My other projects could be seen in my `repositories` tab!
-
-Personal:
-
-- 🏨 **[Intractive Hotel System](https://nicholasdw.com/Intractive)**
-- 💰 **[Cashy Application](https://cashy.herokuapp.com/)**
-- 📅 **[Anzu](https://github.com/lauslim12/Anzu)**
-- 📮 **[Satella](https://github.com/lauslim12/Satella)**
-- 💬 **[Intract Social Network](https://github.com/lauslim12/intract-social-network)**
-- 🌐 **[Portfolio Website](https://nicholasdw.com/) / [Previous Portfolio](https://nicholasdw.com/Portofolio%20Real/)**
-- 🔑 **[Vernam Cipher Encryption Analysis](https://github.com/lauslim12/vernam-cipher)**
-- 🎞️ **[Anime Vision](https://github.com/lauslim12/anime-vision)**
-- 📒 **[Git Cheatsheet](https://nicholasdw.com/software-engineering)**
-- 🧑 **[Gender Classification](https://github.com/lauslim12/gender-classification)**
-- 🕵 Ortlinde Penetration Testing Application
-
-IBM Indonesia:
-
-- 🤑 **[Reputation Economy](https://github.com/lauslim12/Reputation-Economics-IBM-Intern-Project)**
-- 🤖 **[Chatbot](https://github.com/lauslim12/Banking-Chatbot-IBM-Watson-Assistant)**
-
-Skifindo Integra Selaras:
-
-- 📃 Database Developer
-- 📏 **[Skifindo Integra Selaras Website](https://skifindo.com/)**
-
-Nilam Sukses Mandiri:
-
-- 🌐 **[Nilam Sukses Mandiri Website](https://nisumapapercups.com/)**
-
-Open Source:
-
-I love contributing in Open Source projects! Here are projects that I have been involved with!
-
-- 😃 **[Anime Face Detector](https://github.com/qhgz2013/anime-face-detector)**
-- 🃏 **[Genshin Impact Wish Simulator](https://github.com/uzair-ashraf/genshin-impact-wish-simulator)**
-
-Other:
-
-- **[Yayasan Difabel Mandiri Indonesia](https://ydmi.or.id)**
-- **[Non-Deterministic Finite Automata for Cereal Vending Machines](http://proceeding.unindra.ac.id/index.php/simponi/article/view/375/0)**
-
-If there is no link of the project, it means that the project is closed source. If you are interested, don't hesitate to send me a message ✉️!
-
-Note: I probably have many more projects, but I think I forgot about them 😂!
-
-## 📱 Get in Touch
-
-You can get in touch with me by using [LinkedIn](https://www.linkedin.com/in/nicholasdwiarto/), or [my personal website](https://www.nicholasdw.com). See you around the world 🌎!
+See you around the world 🌎!
