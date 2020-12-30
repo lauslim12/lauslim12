@@ -4,8 +4,6 @@ Hello everyone! 👋
 
 I am currently a third-year Computer Science university student. I have a strong foundation in Computer Science, and I specialize (read: passionate) in making beautiful web applications, software development, and data related stuff. I love technology and will always try to work, take on projects, and force myself to level up and develop further in my spare time.
 
-I started coding in junior high school, with my first language was everyone's favorite HTML. After several weeks exploring my first programming language (Ruby), I grew big-headed and tried to create a San Andreas Multiplayer Server with PAWNO Scripting Language. It was fun, but I failed. Since then, I have become interested in software development!
-
 Presently, in university, I have had the chance to intern in a top IT company, which is IBM Indonesia as a Data Modeler Intern. Aside from IBM, I have also worked and interned in several companies, such as Nilam Sukses Mandiri, and Skifindo Integra Selaras.
 
 At IBM, me and my partner developed a system that allows one to check and predict the financial performance of a company by its CXO personality, its financial data, and its reputation. Aside from that, we also had the chance to develop a virtual assistant (chatbot) for banking purposes.
