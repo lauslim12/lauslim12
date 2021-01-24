@@ -14,7 +14,7 @@ I love working in the open source, some of my best projects include [Anzu (a cha
 
 I have also written an academic research paper about [the implementation of Non-Deterministic Finite Automata for Vending Machines (Bahasa Indonesia)](http://proceeding.unindra.ac.id/index.php/simponi/article/view/375/0).
 
-Check out my open complete source contributions (forks) at [@lauslim12-forks](https://github.com/lauslim12-forks), or my old code repositories at [@lauslim12-old](https://github.com/lauslim12-old)! I mostly keep the ones I believe are the best of my projects on my main profile.
+Check out all of my open source contributions (forks) at [@lauslim12-forks](https://github.com/lauslim12-forks), or my old code repositories at [@lauslim12-old](https://github.com/lauslim12-old)! I mostly keep the ones I believe are the best of my projects on my main profile.
 
 Get in touch with me by connecting with my [LinkedIn](https://www.linkedin.com/in/nicholasdwiarto/) or [my personal website](https://www.nicholasdw.com).
 
