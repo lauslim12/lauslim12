@@ -16,6 +16,6 @@ I have also written an academic research paper about [the implementation of Non-
 
 Check out all of my open source contributions (forks) at [@lauslim12-forks](https://github.com/lauslim12-forks), or my old code repositories at [@lauslim12-old](https://github.com/lauslim12-old)! I mostly keep the ones I believe are the best of my projects on my main profile.
 
-Get in touch with me by connecting with my [LinkedIn](https://www.linkedin.com/in/nicholasdwiarto/) or [my personal website](https://www.nicholasdw.com).
+Get in touch with me by connecting with my [LinkedIn](https://www.linkedin.com/in/nicholasdwiarto/), [StackOverflow](https://stackoverflow.com/users/13980107/nicholas-d), or [my personal website](https://www.nicholasdw.com).
 
 See you around the world 🌎!
